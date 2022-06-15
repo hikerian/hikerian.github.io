@@ -7816,6 +7816,16 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-thirdly {
+  --bs-bg-opacity: 1;
+  background-color: var(--bs-gray-200) !important;
+}
+
+.bg-fourly {
+  --bs-bg-opacity: 1;
+  background-color: var(--bs-yellow) !important;
+}
+
 .bg-success {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
